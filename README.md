@@ -1,27 +1,55 @@
-<h1 align="center">Hi 👋, I'm Sameer Nadaf</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;How+are+you+doing?;+I'm+Sameer+Nadaf!;" />
+</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-- 🔭 I’m currently working on **Java Development**
+<br/>
 
-- 🌱 I’m currently learning **Jakarta EE**
+<div align="center">
 
-- 💬 Ask me about **Java,Sql Database**
+🌱 I’m currently learning **Jakarta EE**
 
-- 📫 How to reach me **nsameernadaf@gmail.com**
+💬 Ask me about **Core Java, Sql Database**
 
-- ⚡ Fun fact **I mostly use CamelCase over snake_case for naming variables**
+📫 How to reach me **nsameernadaf@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sameer-nadaf-92447b21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sameer-nadaf-92447b21a" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sameer_nadaf_62/profilecard/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sameer_nadaf_62/profilecard/" height="30" width="40" /></a>
-</p>
+⚡ Fun fact **I mostly use CamelCase over snake_case for naming variables**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+ </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameernadaf&show_icons=true&locale=en&layout=compact" alt="sameernadaf" /></p>
+<div align="center"> 
+  <a href="mailto:nsameernadaf@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/sameer-nadaf-92447b21a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameernadaf&show_icons=true&locale=en" alt="sameernadaf" /></p>
+<hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameernadaf&" alt="sameernadaf" /></p>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,java" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,mysql" /><br>
+</div>
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/SameerNadaf/SameerNadaf/blob/main/dist/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/>
+</div>
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=SameerNadaf&theme=react&hide_border=false" alt="readme ststs"/>&nbsp;&nbsp;
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=SameerNadaf&theme=react&show_icons=true&hide_border=false&count_private=true" alt="readme stats" />
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerNadaf&theme=react&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
+</div>
+<br/>
