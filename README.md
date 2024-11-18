@@ -11,9 +11,9 @@
 
 💬 Ask me about **Core Java, Sql Database**
 
-📫 How to reach me **nsameernadaf@gmail.com**
-
 ⚡ Fun fact **I mostly use CamelCase over snake_case for naming variables**
+
+👨‍💻 All of my projects are available at **https://github.com/SameerNadaf?tab=repositories**
 
  </div>
 
@@ -23,16 +23,18 @@
   </a>
   <a href="https://www.linkedin.com/in/sameer-nadaf-92447b21a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> 
+  <a href="https://x.com/SameerNadaf31" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
   </a>
 </div>
-
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,java,hibernate,maven" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,github,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,eclipse,mysql" /><br>
 </div>
 <br/>
 <hr/>
