@@ -12,7 +12,7 @@
 
 👨‍💻 Check out my projects at **[GitHub Repositories](https://github.com/SameerNadaf?tab=repositories)**
 
-⚡ Fun fact **I mostly use CamelCase over snake_case for naming variables**
+⚡ Fun fact **I mostly use camelCase over snake_case for naming variables**
 
  </div>
 
