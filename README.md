@@ -1,18 +1,34 @@
-# About Me:
-👋 Hi, I’m Sameer<br>💻 iOS Developer | Swift & SwiftUI Enthusiast<br>🚀 Building apps with clean architecture & great UI/UX<br>📚 Always learning and exploring Apple’s ecosystem<br>🌱 Open to collaborations & new opportunities
+<h1 align="center">✨ Sameer — Aspiring iOS App Explorer</h1>
 
+<p align="center">
+  I’m Sameer, an aspiring iOS developer exploring Swift & SwiftUI.<br />  
+  Curious, creative, and eager to learn — if it’s an idea, I want to try building it on iOS.
+</p> 
+  
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-nadaf-92447b21a/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nsameernadaf@gmail.com) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SameerNadaf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SameerNadaf&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerNadaf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 👨‍💻 About Me  
+📱 Aspiring iOS Developer — exploring Swift & SwiftUI  
+🎨 Enjoy learning clean design and creating smooth user experiences  
+🔍 Continuously exploring Apple’s ecosystem, from Core Data to Combine  
+🤝 Open to collaborations — curious about new ideas, small projects, or learning together  
+> My goal? To grow as an iOS developer and contribute to apps that people enjoy using
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SameerNadaf&icon=6&color=0)](https://visitcount.itsvg.in)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SameerNadaf&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SameerNadaf&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerNadaf&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>
-<p align="right"><i>"The best way to predict the future is to create it." – Abraham Lincoln</i></p>
+---
+
+## 🤝 Let’s Build Together  
+Got an app idea? Something simple, fun, or even crazy?  
+Let’s see if we can make it real.  
+
+📬 Email: **nsameernadaf@gmail.com**  
+💼 LinkedIn: [Sameer Nadaf](https://www.linkedin.com/in/sameer-nadaf-92447b21a/)  
+
+---
+
+<p align="right"><i>“The best way to predict the future is to create it.” – Abraham Lincoln</i></p>
