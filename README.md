@@ -1,4 +1,4 @@
-<h1 align="center">✨ Sameer — Aspiring iOS App Explorer</h1>
+<h1 align="center">✨Aspiring iOS App Explorer</h1>
 
 <p align="center">
   I’m Sameer, an aspiring iOS developer exploring Swift & SwiftUI.<br />  
