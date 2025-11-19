@@ -1,18 +1,8 @@
-<h1 align="center">✨Aspiring iOS App Explorer</h1>
+<h1 align="center">👋 Hey, I’m Sameer</h1>
 
 <p align="center">
-  I’m Sameer, an aspiring iOS developer exploring Swift & SwiftUI.<br />  
-  Curious, creative, and eager to learn — if it’s an idea, I want to try building it on iOS.
+ iOS developer with a solid foundation in Swift and SwiftUI. I enjoy building clean and practical apps, and I’m always looking for ways to write better code. I like exploring new ideas, learning through real projects, and slowly getting better at the craft one step at a time. Outside of coding, I just enjoy figuring things out and creating stuff that feels good to use.
 </p> 
-  
----
-
-## 👨‍💻 About Me  
-📱 Aspiring iOS Developer — exploring Swift & SwiftUI  
-🎨 Enjoy learning clean design and creating smooth user experiences  
-🔍 Continuously exploring Apple’s ecosystem, from Core Data to Combine  
-🤝 Open to collaborations — curious about new ideas, small projects, or learning together  
-> My goal? To grow as an iOS developer and contribute to apps that people enjoy using
 
 ---
 # 📊 GitHub Stats:
@@ -22,9 +12,9 @@
 
 ---
 
-## 🤝 Let’s Build Together  
-Got an app idea? Something simple, fun, or even crazy?  
-Let’s see if we can make it real.  
+## 🤝 Open to Building  
+If you have an idea — small utility app, SwiftUI concept, <br/>
+or anything worth experimenting with — I’m open to discussing and building it.
 
 📬 Email: **nsameernadaf@gmail.com**  
 💼 LinkedIn: [Sameer Nadaf](https://www.linkedin.com/in/sameer-nadaf-92447b21a/)  
